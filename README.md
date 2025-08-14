@@ -1,7 +1,8 @@
 ## Hello. My name is Michael and this is my Github.
 __________________________________________________
-- I am currently studying for the CompTIA Security+ Certificate.
-- I am also intersted in entering the cybersecurity field.
+:As of April 2025 I am now CompTIA Security+ Certified.
+
+- I am currently working on projects to enter the cybersecurity field.
 - This account will display any projects or practice labs I will complete.
 
 >I know Java and am learning Python.
