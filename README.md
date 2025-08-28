@@ -1,4 +1,4 @@
-## Hello. My name is Michael and this is my Github.
+## Welcome to my Github Profile.
 __________________________________________________
 [As of April 2025 I am now CompTIA Security+ Certified.]
 
